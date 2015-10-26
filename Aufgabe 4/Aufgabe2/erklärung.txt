@@ -1,0 +1,3 @@
+Die .svg-Datei ist kleiner als die .png, weil diese das Bild mithilfe von Kurven
+und geometrischen Figuren (in form von XML) beschreibt, während die .png-Datei Farbinformationen für
+jedes Pixel enthält (was mehr Speicher einnimmt).

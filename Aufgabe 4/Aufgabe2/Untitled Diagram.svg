@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:xhtml="http://www.w3.org/1999/xhtml"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   style="background-color: rgb(255, 255, 255);"
+   width="443px"
+   height="233px"
+   version="1.1"
+   content="%3Cmxfile%20userAgent%3D%22Mozilla%2F5.0%20(X11%3B%20Fedora%3B%20Linux%20x86_64%3B%20rv%3A41.0)%20Gecko%2F20100101%20Firefox%2F41.0%22%20type%3D%22device%22%3E%3Cdiagram%3E3ZdNb%2BIwEIZ%2FTY4rQRw%2Beixs6e5hpdVy6NkkQ2Jh7MgxX%2F31HZMxIQmU3Qq2KiCBeWOPPc87cUzAxsvts%2BF59ksnIIOwk2wD9j0Iwy4bPuCXU3alMuwMSyE1IqFOlTAVr0Bih9SVSKCodbRaSyvyuhhrpSC2NW2uZX2KnKc%2BfCVMYy7b6otIbEZLDvuV%2FgNEmvlpun3KbsbjRWr0StF8Qcjm%2B1d5ecl9rH1W7AmJGa0xjGstt2OQjpoHUqY%2BOXP1sEgDihby%2FgC85AasuVxRnkHYlzh0lBvAZuqaL2AWr7BCPugVGPz8qeba4MrFwnfHKY5GlFELu%2FP0ioznrpkbHUOB9ow2mbAwzXns5A0WCGqZXUr81XXTSy7Ut9l%2BWaPU8ERgRmMttcEOSisnz4WUXkKqw9EkmowPs6%2FBWPC11uaylwjKM%2BglWLPDLjQgfKAao9Ls%2BprbVN53iW0nO%2FK9TxqnEkwPoSsXsEFGnDYlOmHKGZ48ti79SzQbpCY99z4P9goAmQdGAMNBG2B0I369O%2BAXsc%2FjR1va166%2FAfs0foMWv0cJW67KvfOPXivXKPfNmWud3jMxKD7JHI9%2Fo3vYB29Ht%2Bdperoe26XtcXgFvHRI%2BNLlGfY%2B7%2Fb2O%2FN7AEElj8boDf6KJS8KEdeJlQMgaZ2ZLgI4StAzOE7QawYkHi%2FW9fCnsqYZfmuBE1d8zxWoD1HolYmBRh0fkBqBWKdxEGhWsOUmBdsKtDfhkPbf%2BUJZ3rMvrPlY%2B7Av%2Fu7wvvgD2w18OXVIvjNfokaZf9wXf3%2F8h%2FuFnvB37UujzD%2FsS9Q4j1%2FPF%2FxZ%2FV8tu1d%2F99nTGw%3D%3D%3C%2Fdiagram%3E%3C%2Fmxfile%3E"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Untitled Diagram(2).svg">
+  <metadata
+     id="metadata52">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="497"
+     inkscape:window-height="404"
+     id="namedview50"
+     showgrid="false"
+     inkscape:zoom="0.55866223"
+     inkscape:cx="263.30792"
+     inkscape:cy="101.20469"
+     inkscape:window-x="3119"
+     inkscape:window-y="333"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g6" />
+  <defs
+     id="defs4" />
+  <g
+     transform="translate(0.5,0.5)"
+     id="g6">
+    <rect
+       x="41"
+       y="1"
+       width="120"
+       height="60"
+       fill="#8bf4fc"
+       stroke="#6c8ebf"
+       pointer-events="none"
+       id="rect8" />
+    <path
+       d="M 53 1 L 53 61 M 149 1 L 149 61"
+       fill="none"
+       stroke="#6c8ebf"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path10" />
+    <g
+       transform="translate(11,13)"
+       id="g12">
+      <switch
+         id="switch14">
+        <foreignObject
+           pointer-events="all"
+           width="180"
+           height="40"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 180px; white-space: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <xhtml:pre>Werkzeuge der Informatik</xhtml:pre>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="90"
+           y="26"
+           font-size="12px"
+           id="text16"
+           style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000" />
+        <text
+           x="90"
+           y="26"
+           font-size="12px"
+           style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+           id="text3380">erkzeuge</text>
+      </switch>
+    </g>
+    <path
+       d="M 61 221 C 61 197 61 185 81 185 C 67.67 185 67.67 161 81 161 C 94.33 161 94.33 185 81 185 C 101 185 101 197 101 221 Z"
+       fill="#f5f5f5"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path18" />
+    <path
+       d="M 181 221 C 181 197 181 185 201 185 C 187.67 185 187.67 161 201 161 C 214.33 161 214.33 185 201 185 C 221 185 221 197 221 221 Z"
+       fill="#f5f5f5"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path20" />
+    <path
+       d="M 124 221 C 124 197 124 185 144 185 C 130.67 185 130.67 161 144 161 C 157.33 161 157.33 185 144 185 C 164 185 164 197 164 221 Z"
+       fill="#f5f5f5"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path22" />
+    <ellipse
+       cx="381"
+       cy="191"
+       rx="60"
+       ry="40"
+       pointer-events="none"
+       id="ellipse24"
+       stroke="#000000"
+       fill="#8bf4fc" />
+    <g
+       transform="matrix(0.93623378,0,0,0.93623378,330.30888,185.55391)"
+       id="g26">
+      <switch
+         id="switch28">
+        <foreignObject
+           pointer-events="all"
+           width="111"
+           height="16"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 111px; white-space: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">Alexander Rovner<xhtml:br />
+</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="56"
+           y="14"
+           font-size="12px"
+           id="text30"
+           style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="14.598175"
+           y="15.727676"
+           id="text3388"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3390"
+             x="14.598175"
+             y="15.727676" /></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:12.82376957px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="-1.0196449"
+           y="8.5050354"
+           id="text3392"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3394"
+             x="-1.0196449"
+             y="8.5050354">Alexander Rovner</tspan></text>
+      </switch>
+    </g>
+    <path
+       d="M 1 221 C 1 197 1 185 21 185 C 7.67 185 7.67 161 21 161 C 34.33 161 34.33 185 21 185 C 41 185 41 197 41 221 Z"
+       fill="#f5f5f5"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path32" />
+    <path
+       d="M 21 151 L 48.76 76.96"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path34" />
+    <path
+       d="M 50.61 72.05 L 51.43 79.83 L 48.76 76.96 L 44.87 77.37 Z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path36" />
+    <path
+       d="M 81 151 L 90.1 87.3"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path38" />
+    <path
+       d="M 90.84 82.11 L 93.32 89.53 L 90.1 87.3 L 86.39 88.54 Z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path40" />
+    <path
+       d="M 151 151 L 132.54 77.18"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path42" />
+    <path
+       d="M 131.27 72.08 L 136.36 78.03 L 132.54 77.18 L 129.57 79.72 Z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path44" />
+    <path
+       d="M 191 151 L 163.24 76.96"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path46" />
+    <path
+       d="M 161.39 72.05 L 167.13 77.37 L 163.24 76.96 L 160.57 79.83 Z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path48" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.18042564px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="102.00089"
+       y="25.557158"
+       id="text3382"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3384"
+         x="102.00089"
+         y="25.557158">Werkzeuge der</tspan><tspan
+         sodipodi:role="line"
+         x="102.00089"
+         y="39.532688"
+         id="tspan3386">Informatik</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.95021057px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="333.28415"
+       y="196.72992"
+       id="text3362"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3364"
+         x="333.28415"
+         y="196.72992">Alexander Rovner</tspan></text>
+  </g>
+</svg>
