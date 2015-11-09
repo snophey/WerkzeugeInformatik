@@ -1,0 +1,22 @@
+\begin{thebibliography}{3}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Gilkerson(2007)]{gilkerson07}
+Kevin Gilkerson.
+\newblock Magnificent prose.
+\newblock \emph{NY's Daily}, 2007.
+
+\bibitem[Moist(2001)]{moist01}
+Moist.
+\newblock \emph{Life Pro Tips}, 2001.
+
+\bibitem[Generator(1999)]{random99}
+Random Generator.
+\newblock \emph{Random Words}.
+\newblock lulu.com, 1999.
+
+\end{thebibliography}
