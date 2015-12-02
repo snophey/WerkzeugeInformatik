@@ -1,0 +1,26 @@
+2.
+a)
+Entferne die Zeilen 12682 bis 12052 und speichere die Ausgabe in out.txt:
+sed -e 12682,13052d homes_full.txt > out.txt
+Entferne die Zeilen 1-33 und speichere die Ausgabe in homes.txt
+sed -e 1,33c out.txt > homes.txt
+
+b)
+cat homes.txt | tr ' ' '\n' | sort | uniq -c | sort -gr | head -20
+
+cat homes.txt: Inhalt der Datei ausgeben.
+tr ' ' '\n': Alle Leerzeichen durch Zeilenumbrüche ersetzen
+sort: Ausgabe alphabetisch sortieren
+uniq -c: Zählen wie oft jedes Wort in der Ausgabe vorkommt und das Ergebnis neben dem Wort zurückgeben
+sort -gr: Eingabe numerisch sortieren und in umgekehrter Reihenfolge ausgeben.
+head -20: Die ersten 20 Zeilen ausgeben.
+
+Problem: Wörter mit Satz-/Sonderzeichen werden separat gezählt.
+Lösung: Man kann alle Sonderzeichen vor dem Zählen mithilfe von sed entfernen.
+cat homes.txt | sed "s/[^A-Za-z0-9 ]//g" | tr ' ' '\n' | sort | uniq -c | sort -gr | head -20
+
+c)
+cat homes.txt | sed "s/[^A-Za-z0-9 ]//g" | tr ' ' '\n' | sort | uniq -c | wc -l 
+
+wc -l: Gibt die Anzahl der Zeilen in der Eingabe zurück.
+Da pro Zeile jew. nur ein Wort steht, bekommt man so die Zahl verschiedener Wörter.

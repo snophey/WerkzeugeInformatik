@@ -1,0 +1,18 @@
+Dies ist ein einfaches Textfile um Regex zu testen.
+
+
+Blaetterfall (von Christan Morgenstern)
+ 
+Der Herbstwald raschelt um mich her.
+Ein unabsehbar Blaettermeer  
+Entperlt dem Netz der Zweige.
+Du aber,   dessen schweres Herz Ich
+Mitklagen will den grossen Schmerz:
+Sei stark,   sei stark und schweige! 
+
+Du lerne laecheln,   wenn das Laub ich 
+Dem leichteren Wind ein leichter Rauben
+Hinabschwankt und verschwindet.
+Du weit,   dass just Vergaenglichkeit
+Das Schwert,   womit der Geist der Zeit
+Sich selber ueberwindet. Ich 
